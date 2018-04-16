@@ -1,6 +1,6 @@
 import click
 from sqlalchemy import create_engine
-from models import Activity, 
+from models import Activity, Task
 
 
 @click.command()

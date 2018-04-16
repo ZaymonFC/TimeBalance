@@ -9,6 +9,7 @@ name = "pypi"
 
 sqlalchemy = "*"
 click = "*"
+setuptools = "*"
 
 
 [dev-packages]
